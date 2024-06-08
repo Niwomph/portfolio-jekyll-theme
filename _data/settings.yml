@@ -10,6 +10,10 @@ menu:
 #-------------------------------
 # Projects Section
 
+#About Me
+
+Name: Daniel Taylor
+
 projects:
 - {name: 'Project One',   url: 'proj-1'}
 - {name: 'Project Two',   url: 'proj-2'}
